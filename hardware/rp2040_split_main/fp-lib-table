@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "E6CC1205RGBC3UDA")(type "KiCad")(uri "${KIPRJMOD}/../lib/E6CC1205RGBC3UDA.pretty")(options "")(descr ""))
+  (lib (name "MX_Only")(type "KiCad")(uri "${KIPRJMOD}/../lib/MX_Alps_Hybrid.pretty/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/../lib/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/../lib/Type-C.pretty")(options "")(descr ""))
+  (lib (name "ABLS-12-MHZ-B4-T")(type "KiCad")(uri "${KIPRJMOD}/../lib/ul_ABLS-12-000MHZ-B4-T/ABLS-12-MHZ-B4-T.pretty")(options "")(descr ""))
+  (lib (name "DS12W_Shikues")(type "KiCad")(uri "${KIPRJMOD}/../lib/DS12W_Shikues.pretty")(options "")(descr ""))
+)

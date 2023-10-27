@@ -1,0 +1,4 @@
+plots/
+*backups/
+*.csv
+*bom.txt
