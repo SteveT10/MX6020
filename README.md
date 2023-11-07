@@ -20,7 +20,7 @@ Main body:
 ![./media/front_main_pcb.jpg](./media/front_main_pcb.jpg)
 Front side of main body PCB.
 
-![./media/back_main_pcb.jpg](./media/front_main_pcb.jpg)
+![./media/back_main_pcb.jpg](./media/back_main_pcb.jpg)
 Back side of main body PCB.
 
 Macropad:
